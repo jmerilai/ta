@@ -1,0 +1,11 @@
+.idea/
+/target/
+ta-exercise.iml
+ta-exercise.ipr
+ta-exercise.iws
+taexercise.iml
+bin/
+.classpath
+.project
+.settings
+.DS_Store
